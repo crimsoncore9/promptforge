@@ -1,0 +1,14 @@
+{
+  "name": "prompt-forge-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Prompt Forge",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5"
+  }
+}
